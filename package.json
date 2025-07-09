@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "fivem-israel": "^1.0.1"
+    "fivem-israel": "^1.0.2"
   },
   "devDependencies": {
     "esbuild": "^0.25.6"
